@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UK78Zdl6WRmXw/jwx5hPmh9IE41D0FKZPOM/NPqIDIz9p3791vEODqSYT4aD9B0dJz4EpJHB0UiLawGA5wMLeg==",
+  "dgSpecHash": "Ms0JXswT8IJxW/fD8C+boM6ur3RQ1Xp5vzmRdDq8PJs8Nr2gb0vFKHPKxgaoAL6CKxdxTgirJhCk5GSvrjgMTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Augustus\\Desktop\\Projects\\BreadPudding\\BreadPuddingTest\\BreadPuddingTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Augustus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\Augustus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

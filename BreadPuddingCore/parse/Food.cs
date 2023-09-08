@@ -7,4 +7,6 @@ public class Food
     [JsonProperty("name")] public string? Name { get; set; }
     [JsonProperty("description")] public string? Description { get; set; }
     [JsonProperty("ingredients")] public string? Ingredients { get; set; }
+
+    public override string ToString() => Name ?? string.Empty;
 }
